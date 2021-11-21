@@ -1,5 +1,8 @@
-# Storetemplatejh
-Template web store static
+# Store template
+
+
+
+Store template static
 
 
 Template created in html5 and css3.
